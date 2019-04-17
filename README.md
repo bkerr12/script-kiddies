@@ -7,9 +7,15 @@ download these languages-
 > c++
 > c#
 > php
+> visual basic
 
 download the following software-
-*notepad++ *sublime text *visual studio code *powershell ise *nmap *wireshark
+> notepad++ 
+> sublime text 
+> visual studio code 
+> powershell ise 
+> nmap 
+> wireshark
 > angry ip scanner
 > ufonet
 > putty
