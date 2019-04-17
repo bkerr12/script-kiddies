@@ -9,12 +9,12 @@ download these languages-
 > php
 
 download the following software-
-> notepad++
-> sublime text
-> visual studio code
-> powershell ise
-> nmap
-> wireshark
+*notepad++
+*sublime text
+*visual studio code
+*powershell ise
+*nmap
+*wireshark
 > angry ip scanner
 > ufonet
 > putty
