@@ -27,3 +27,6 @@ download the following software-
 > firefox
 > tor
 > aircrack -ng 
+> my sql
+> microsoft excel
+
